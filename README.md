@@ -24,7 +24,7 @@ Weather API – (like OpenWeatherMap) to fetch weather data
 
 🚀 Getting Started
 *Clone this repository
-*git clone https://github.com/your-username/weather-app.git
+*git clone https://github.com/keerthana071004/Weather-App
 *Open index.html in your browser.
 💡 You’ll need an API key from OpenWeatherMap. Replace YOUR_API_KEY in script.js with your actual API key.
 
